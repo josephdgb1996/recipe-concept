@@ -6,11 +6,11 @@
 ### Steps 👣 
 
 1) git clone
-- cd project
-- composer install
-- npm install
-- php artisan migrate
-- php artisan db:seed
-- php artisan storage:link
-- php artisan serve
-- npm run watch
+2) cd project
+3) composer install
+4) npm install
+5) php artisan migrate
+6) php artisan db:seed
+7) php artisan storage:link
+8) php artisan serve
+9) npm run watch
