@@ -5,7 +5,7 @@
 
 ### Steps 👣 
 
-- git clone
+1) git clone
 - cd project
 - composer install
 - npm install
