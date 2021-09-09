@@ -14,3 +14,6 @@
 7) php artisan storage:link
 8) php artisan serve
 9) npm run watch
+
+### Demo 👀
+![demo](https://user-images.githubusercontent.com/24982317/132621388-2b79e0c5-2424-4389-b2b2-12a847e5042f.jpg)
